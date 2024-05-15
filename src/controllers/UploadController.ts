@@ -1,4 +1,3 @@
-// controllers/UploadController.ts
 import { Request, Response } from "express";
 
 import { UploadService } from "../services/UploadService";

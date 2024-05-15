@@ -1,4 +1,3 @@
-// app.ts
 import express from "express";
 
 import { UploadController } from "./controllers/UploadController";
